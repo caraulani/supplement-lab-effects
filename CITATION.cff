@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and cite the original publications for any numbers you use."
+type: dataset
+title: "Supplement–biomarker effects: average changes in blood biomarkers in randomised trials of supplements, with source DOIs"
+version: 1.0.0
+date-released: 2026-11-25
+license:
+  - CC-BY-4.0
+  - MIT
+url: "https://lifefrom.ai/research/open-data/supplement-effects"
+repository-code: "https://github.com/caraulani/supplement-lab-effects"
+authors:
+  - name: "LifeFrom"
+    website: "https://lifefrom.ai"
+  - family-names: "Caraulani"
+    given-names: "Julian"
+    affiliation: "LifeFrom"
+keywords:
+  - dietary supplements
+  - biomarkers
+  - meta-analysis
+  - randomised controlled trials
+  - effect sizes
+  - laboratory medicine
+  - assay interference

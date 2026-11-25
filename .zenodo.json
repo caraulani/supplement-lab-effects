@@ -1,0 +1,18 @@
+{
+  "title": "Supplement–biomarker effects: average changes in blood biomarkers in randomised trials of supplements, with source DOIs",
+  "version": "1.0.0",
+  "publication_date": "2026-11-25",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {"name": "LifeFrom"},
+    {"name": "Caraulani, Julian", "affiliation": "LifeFrom"}
+  ],
+  "description": "Row-level table of average biomarker changes reported in meta-analyses of randomised trials (and selected trials and experimental studies) of dietary supplements. Each row gives supplement and form, dose, duration, population and baseline status, biomarker, effect measure, effect with 95% CI and unit, number of trials and participants, I², dose-response slope and certainty where reported, and the verified source DOI with the table or figure location. A short verbatim excerpt is included for sources published under CC BY or CC0. Includes null findings and assay interference effects (biotin in streptavidin–biotin immunoassays; creatine and serum creatinine), and a separate table of serum biotin concentrations at which immunoassay bias exceeded 10% in spiking studies.",
+  "keywords": ["dietary supplements", "biomarkers", "meta-analysis", "randomised controlled trials", "effect sizes", "laboratory medicine", "assay interference"],
+  "related_identifiers": [
+    {"identifier": "https://lifefrom.ai/research/open-data/supplement-effects", "relation": "isDocumentedBy", "scheme": "url"}
+  ],
+  "notes": "Data under CC BY 4.0. Code (scripts/, tests/) under the MIT licence."
+}

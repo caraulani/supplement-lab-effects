@@ -1,0 +1,14 @@
+[project]
+name = "supplement-lab-effects"
+version = "1.0.0"
+description = "Build and test scripts for the supplement-lab-effects dataset"
+license = {text = "MIT"}
+authors = [{name = "LifeFrom"}, {name = "Julian Caraulani"}]
+requires-python = ">=3.9"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=7"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

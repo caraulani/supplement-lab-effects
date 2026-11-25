@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store
+# excerpts from sources that are not CC BY or CC0 (never distributed)
+curation/withheld/

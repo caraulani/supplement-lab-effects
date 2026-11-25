@@ -1,0 +1,39 @@
+Licensing for supplement-lab-effects 1.0.0
+
+1. Data and documentation (data/, web/, curation/ and the Markdown files): Creative Commons Attribution 4.0 International (CC BY 4.0).
+   Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+   Attribution: "LifeFrom (https://lifefrom.ai) and Julian Caraulani, supplement-lab-effects 1.0.0".
+   Copyright (c) 2026 LifeFrom (https://lifefrom.ai) and Julian Caraulani
+
+   The effect estimates are facts reported in the cited publications. Each row names its source DOI.
+   The column `evidence_quote` holds short verbatim excerpts (usually under 300 characters) so each
+   number can be checked. Excerpts are included ONLY for sources published under CC BY (any version)
+   or CC0. For every other source (CC BY-NC, CC BY-NC-ND, publisher free-access terms, publisher
+   copyright) the excerpt is left blank and `evidence_quote_status` says why; the number, DOI and
+   location are still given. The excerpts that are included remain the work of the original authors
+   under the source article's CC BY or CC0 licence (column `license` in data/sources.csv); they are
+   attributed by the DOI in the same row.
+
+2. Code (scripts/, tests/): MIT License.
+
+MIT License
+
+Copyright (c) 2026 LifeFrom (https://lifefrom.ai) and Julian Caraulani
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
